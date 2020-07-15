@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 30px;
 }
 .orange-background{
     background-color:#fceae8;
@@ -21,12 +21,12 @@
     cursor: pointer;
 }
 .cat1,.cat2,.cat3{
-    padding: 10px 30px;
+    padding: 20px 30px;
     border-radius: 10px;
 }
 .cat1{
     background-color: orange;
-
+   
 } 
 .cat2{
     background-color: orchid;
