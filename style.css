@@ -58,3 +58,11 @@
 #subscribe h6{
     color:gray;
 }
+nav ul li a{
+    font-size: 20px;
+    
+}
+nav ul li {
+    padding-left: 20px;
+    color: black;
+}
